@@ -1,4 +1,4 @@
-# Hi, I'm Prakash Kumar 👋
+# Hi, I'm Prakash 👋
 
 I build **Python automation/bots**, **web clones with modern CSS**, and **full-stack apps** with an **ML service**.
 
@@ -23,9 +23,6 @@ I build **Python automation/bots**, **web clones with modern CSS**, and **full-s
 - **Frontend:** Tailwind CSS  
 - **Interests:** Automation, UI building, product development, ML services
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prakashkumarydv3&show_icons=true&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prakashkumarydv3&layout=compact)
 
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/prakashkumar-yadav/
