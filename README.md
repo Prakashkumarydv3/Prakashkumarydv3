@@ -9,20 +9,15 @@ I build **Python automation/bots**, **web clones with modern CSS**, and **full-s
 
 ## Featured Projects
 - **Jarvis** — A bot that takes action on commands (**Python**)  
-  Repo: https://github.com/Prakashkumarydv3/Jarvis
 
-- **ReadSphere** — Main app (**TypeScript**)  
-  Repo: https://github.com/Prakashkumarydv3/ReadSphere
-
+- **ReadSphere** — Main app (**TypeScript**)
+- 
 - **ReadSphere ML Service** — ML service backend (**Python**)  
-  Repo: https://github.com/Prakashkumarydv3/ReadSphere_ML_Service
 
-- **TwitterClone** — Twitter clone UI using **Tailwind CSS / HTML / CSS**  
-  Repo: https://github.com/Prakashkumarydv3/TwitterClone
-
-- **Spotify** — Spotify clone with **HTML/CSS/JS** (play/pause, volume control, loop)  
-  Repo: https://github.com/Prakashkumarydv3/Spotify
-
+- **TwitterClone** — Twitter clone UI using **Tailwind CSS / HTML / CSS**
+  
+- **Spotify** — Spotify clone with **HTML/CSS/JS** (play/pause, volume control, loop)
+  
 ## Tech Stack
 - **Languages:** Python, TypeScript, JavaScript, HTML, CSS  
 - **Frontend:** Tailwind CSS  
