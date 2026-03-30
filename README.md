@@ -11,7 +11,7 @@ I build **Python automation/bots**, **web clones with modern CSS**, and **full-s
 - **Jarvis** — A bot that takes action on commands (**Python**)  
 
 - **ReadSphere** — Main app (**TypeScript**)
-- 
+  
 - **ReadSphere ML Service** — ML service backend (**Python**)  
 
 - **TwitterClone** — Twitter clone UI using **Tailwind CSS / HTML / CSS**
